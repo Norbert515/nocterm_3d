@@ -4,7 +4,7 @@ A declarative 3D renderer for terminal using [Nocterm](https://github.com/norber
 
 > **Experimental**: This project is in early development and APIs may change.
 
-https://github.com/Norbert515/nocterm_3d/raw/main/docs/video.mp4
+![Demo](docs/demo.gif)
 
 ## Features
 
