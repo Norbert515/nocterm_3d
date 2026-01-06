@@ -1,6 +1,6 @@
 # nocterm_3d
 
-A declarative 3D renderer for terminal using [Nocterm](https://github.com/norbertkozsir/nocterm).
+A declarative 3D renderer for terminal using [Nocterm](https://github.com/Norbert515/nocterm).
 
 > **Experimental**: This project is in early development and APIs may change.
 
@@ -47,4 +47,4 @@ class RotatingCubeDemo extends StatelessComponent {
 ## Requirements
 
 - Dart SDK >=3.5.0
-- [Nocterm](https://github.com/norbertkozsir/nocterm) ^0.3.2
+- [Nocterm](https://github.com/Norbert515/nocterm) ^0.3.2
